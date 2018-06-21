@@ -14,5 +14,7 @@ This is introduction
 
 
 ## Purpose
+This section tells the purpose of this project 
 
 ## How to contribute
+This section explains how you can contribute to the repository.
