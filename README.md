@@ -5,10 +5,10 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
-#Starter Web Project
+# Starter Web Project
 
-##Introduction 
+## Introduction 
 
-##Purpose
+## Purpose
 
-##How to contribute
+## How to contribute
